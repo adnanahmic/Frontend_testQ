@@ -1,0 +1,47 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.link {
+  text-align: right !important;
+  cursor: pointer;
+}
+ul {
+  list-style-type: none;
+}
+
+li {
+  border: 5px solid steelblue;
+  margin-top: 2px;
+  text-align: left;
+}
+
+.title {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.post {
+  font: 15px/20px Georgia, serif;
+}
+
+h4 {
+  text-align: center;
+  border-top: 1px dotted steelblue;
+}
+
+.comment {
+  font: 12px/15px Georgia, serif;
+}
+
+.by {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: oblique;
+  font-weight: bold;
+}
+
+.name {
+  font-stretch: condensed;
+  font-style: italic;
+  color: red;
+}
